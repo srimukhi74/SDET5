@@ -1,0 +1,99 @@
+ Location:
+C:\Program Files\Javar 
+
+C:\softwares\eclipse
+
+C:\Users\Huser\workspace\JavaWorks\bin\com\fannie
+
+encapsulation
+polymorphism
+inhertitance
+Abstaraction
+Naming conensin
+package-- lower cse
+class pascal (EMp,Cstomer
+Vriable& methods
+
+
+Private
+public
+protectete d
+Default
+privlate are class levelle as 
+
+all your variables as privte in encapsulation
+
+methodes are kept in stacks
+
+properties are varables
+
+
+abstaract class and interfaces cannot instanciated.
+a class can extend a class
+interface extends  interfaces
+compare and comparatel
+
+POJO
+---------------------------------------------------
+github Vs SVN both are version control
+-------------------------------------------------------------
+annoymos
+
+try catch
+finally
+switch
+throwable
+partial deligation
+multiple catch
+bean class
+serialization
+
+we use tnteface for multiple inhertance and for contracts
+
+
+type cast
+override
+interface
+contract
+casting
+
+in exception we use try and catch and also finally
+
+marker interface are for only stamps
+
+unchecked exceptions are all known by JVM
+alt shift +Z will give try cath 
+
+join
+waite and sleep
+
+constructor
+web servers(servetlets servers): jboss, glassfish,
+tomcat,weblogic,websprher
+
+-----------------------------------
+
+
+C:\Users\Huser\Downloads\apache-tomcat-8.0.44-windows-x64.zip
+
+pojo
+
+3015908999
+
+
+
+Xml and Xpath
+
+https://www.freeformatter.com/xpath-tester.html
+
+postmaster
+
+
+inorder to identify an element right click on the element and select insepect element and select
+
+<img class="spotlight" aria-busy="false" alt="Image may contain: 2 people, people smiling" src="https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/10542975_763084423769590_7627756305216709925_n.jpg?oh=7c54b18f9b94f080989814cef66013d7&amp;oe=59E8DDFE">
+
+
+
+jasmin is used as junit fro javascript for unit testing.
+
